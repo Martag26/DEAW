@@ -10,9 +10,9 @@ A continuación se presenta una lista de los miembros del equipo, junto con sus 
 
 | **Nombre**                | **GitHub**                           |
 |---------------------------|--------------------------------------|
-| **Ana García**             | [GitHub - AnaG](https://github.com/AnaG) |
-| **Carlos Pérez**           | [GitHub - CarlosP](https://github.com/CarlosP) |
-| **Luis Rodríguez**         | [GitHub - LuisR](https://github.com/LuisR) |
+| **Marta**                 | [GitHub - AnaG](https://github.com/AnaG) |
+| **Emerson Cruz**          | [GitHub - CarlosP](https://github.com/CarlosP) |
+| **Luis Rodríguez**        | [GitHub - LuisR](https://github.com/LuisR) |
 
 ---
 
